@@ -1,0 +1,24 @@
+{
+  "pages": [
+    {
+      "title": "Page 1",
+      "description": "Elegant, bespoke designs."
+    },
+    {
+      "title": "Page 2",
+      "description": "Professional and Competent Hands."
+    },
+    {
+      "title": "Page 3",
+      "description": "Dapper Outfits."
+    },
+    {
+      "title": "Page 4",
+      "description": "Dashing ."
+    },
+    {
+      "title": "Page 5",
+      "description": "Smart and natty."
+    }
+  ]
+}

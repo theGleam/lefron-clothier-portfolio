@@ -1,0 +1,55 @@
+.Button {
+  padding: 8px;
+  min-width: 128px;
+  max-height: 80px;
+  text-align: center;
+  flex: 1;
+  flex-basis: auto;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.Button:focus,
+.Button:active {
+  outline-width: 0;
+  border: none;
+}
+
+.Button-large {
+  padding: 16px;
+}
+
+.Button-link:hover {
+  background-color: #EEEEEE;
+}
+
+.Button-primary {
+  background-color: #FAFAFA;
+  color: #212121;
+}
+
+.Button-primary:hover {
+  background-color: #EEEEEE;
+}
+
+.Button-secondary {
+  background-color: #212121;
+  color: #FAFAFA;
+}
+
+.Button-secondary:hover {
+  background-color: #424242;
+}
+
+@media only screen and (min-width: 350px) {
+  .Button-large {
+    padding: 10px;
+  }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .Button {
+    min-width: 80px;
+    max-height: 80px;
+  }
+}
