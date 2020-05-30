@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-fashion-portfolio",
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "name": "Lefron Clothier Fashion Porfolio",
+  "description": "Lefron Clothier is a fashion designing company that makes bespoke female outfits well tailored to suit you. I am located in Enugu state.",
   "version": "0.1.0",
-  "author": "Shobhit Chittora <chittorashobhit@gmail.com>",
+  "author": "theGleam <thegleam.jd@gmail.com>",
   "dependencies": {
     "classnames": "^2.2.6",
     "gatsby": "^2.13.31",
@@ -37,11 +37,10 @@
     "develop": "gatsby develop",
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
-    "serve": "gatsby serve",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+    "serve": "gatsby serve"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shobhitchittora/gatsby-starter-fashion-portfolio"
+    "url": "https://github.com/theGleam/lefron-clothier-portfolio"
   }
 }
